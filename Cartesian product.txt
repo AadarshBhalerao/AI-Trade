@@ -1,0 +1,7 @@
+Cartesian product
+
+For example, suppose we have two sets: {A, B} and {1, 2}. Their Cartesian product would be:
+
+{(A, 1), (A, 2), (B, 1), (B, 2)}
+
+Each element in the new set is a combination of an element from the first set and an element from the second set.
